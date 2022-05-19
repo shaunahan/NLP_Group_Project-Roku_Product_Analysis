@@ -9,6 +9,6 @@ We analyzed customers' opinions on different Roku versions using Tweets and Amaz
 
 We then performed the topic modelling to extract popular topics from amazon reviews, and conducted the text analysis to identify what users like and dislike about their Roku products. Based on our findings, we provided business suggestions for the next product development.
 
-The final presentation deck can be found [here](shaunahan/NLP_Final_Project/Final_Presentation.pdf)
+The final presentation deck can be found [here](./Final_Presentation.pdf)
 
 
