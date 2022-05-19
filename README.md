@@ -1,4 +1,4 @@
-# NLP_Final_Project
+# NLP_Final_Project: Product Review using Text Analysis
 
 This repo contains the codes we used for the Roku product analysis. 
 We analyzed customers' opinions on different Roku versions using Tweets and Amazon customer reviews. To collect the necessary data, we web-scrapped using Twitter's and Amazon's Rainforest API.
