@@ -1,4 +1,4 @@
-# NLP_Final_Project: \n ROKU Product Review Using Text Analysis
+# NLP Final Project: ROKU Product Review Using Text Analysis
 
 
 This repo contains the codes we used for the Roku product analysis. 
